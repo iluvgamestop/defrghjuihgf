@@ -1,0 +1,6 @@
+token=NTExMTcwOTgwOTM3NDY1ODU2.DsnA0Q.u7MU3K6hdqbw4AnPiaehhPzSI80
+owner=510735211215192075
+prefix= 1
+game= 1help #GameSTOP 
+stayinchannel=true
+songinstatus=true 
